@@ -1,6 +1,15 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Izzat" alt="Typing SVG" /></a>
+```
+██╗ █████╗ ███████╗██╗  ██╗ █████╗ ██████╗ ██╗
+██║██╔══██╗██╔════╝██║  ██║██╔══██╗██╔══██╗██║
+██║███████║███████╗███████║███████║██████╔╝██║
+██║██╔══██║╚════██║██╔══██║██╔══██║██╔══██╗██║
+██║██║  ██║███████║██║  ██║██║  ██║██║  ██║██║
+╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
+```
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Building+something+cool..." alt="Typing SVG" /></a>
 
 **Full Stack Developer Intern** @ Ashari Tech | Makassar, Indonesia
 
@@ -24,7 +33,7 @@
     "music": ["Lo-fi", "Jazz", "Indie"],
     "movies": ["Sci-fi", "Action", "Documentary"]
   },
-  "current_focus": "Building something cool... 👀"
+  "current_focus": "Building something cool..."
 }
 ```
 
@@ -47,13 +56,46 @@
 
 ---
 
+### Metrics Dashboard
+
+<div align="center">
+
+![GitHub Metrics](./github-metrics.svg)
+
+</div>
+
+---
+
+### 3D Contribution Calendar
+
+<div align="center">
+
+![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
+
+<details>
+<summary>More 3D Themes</summary>
+
+| Night Green | Season Animate |
+|:-----------:|:--------------:|
+| ![Green](./profile-3d-contrib/profile-night-green.svg) | ![Season](./profile-3d-contrib/profile-season-animate.svg) |
+
+| GitHub Dark | Gitblock |
+|:-----------:|:--------:|
+| ![Dark](./profile-3d-contrib/profile-github-dark.svg) | ![Gitblock](./profile-3d-contrib/profile-gitblock.svg) |
+
+</details>
+
+---
+
 ### Featured Project
 
 <table>
 <tr>
 <td>
 
-**🚀 Portfolio Website**
+**Portfolio Website**
 
 ![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=next.js&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=a3a3a3)
@@ -68,20 +110,7 @@
 
 ---
 
-### Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=a3a3a3)](https://www.linkedin.com/in/andi-izzat-7329b630a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://izzatshafran.vercel.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=a3a3a3)](https://www.instagram.com/izzat.shafran/)
-[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=a3a3a3)](mailto:ifran@ashari.tech)
-
-</div>
-
----
-
-### Contributions
+### Snake Animation
 
 <div align="center">
 
@@ -90,5 +119,18 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iashari/iashari/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/iashari/iashari/output/github-snake-dark.svg" />
 </picture>
+
+</div>
+
+---
+
+### Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=a3a3a3)](https://www.linkedin.com/in/andi-izzat-7329b630a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://izzatshafran.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=a3a3a3)](https://www.instagram.com/izzat.shafran/)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=a3a3a3)](mailto:ifran@ashari.tech)
 
 </div>
