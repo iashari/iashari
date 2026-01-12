@@ -10,16 +10,11 @@
 
 ### About
 
-Full Stack Developer Intern at **Ashari Tech** in Makassar, Indonesia. I specialize in creating seamless user experiences from concept to code, bridging the gap between design and development.
-
-```javascript
-const izzat = {
-    location: "Makassar, Indonesia",
-    role: "Full Stack Developer Intern @ Ashari Tech",
-    currentFocus: ["Next.js", "TypeScript", "UI/UX Design"],
-    funFact: "I turn coffee into code"
-};
-```
+<table>
+<tr><td>Location</td><td>Makassar, Indonesia</td></tr>
+<tr><td>Role</td><td>Full Stack Developer Intern @ Ashari Tech</td></tr>
+<tr><td>Focus</td><td>Next.js, TypeScript, UI/UX Design</td></tr>
+</table>
 
 ---
 
