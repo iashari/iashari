@@ -10,11 +10,17 @@
 
 ### About
 
-<table>
-<tr><td>Location</td><td>Makassar, Indonesia</td></tr>
-<tr><td>Role</td><td>Full Stack Developer Intern @ Ashari Tech</td></tr>
-<tr><td>Focus</td><td>Next.js, TypeScript, UI/UX Design</td></tr>
-</table>
+I am a passionate creative professional based in Indonesia, dedicated to bridging the gap between imaginative design and robust development. With a keen eye for detail and a deep appreciation for clean, minimalist aesthetics, I strive to create digital experiences that are as intuitive as they are visually striking.
+
+My approach is rooted in the belief that a product's beauty should be matched by its functionality. By blending technical expertise with a user-centric design philosophy, I transform complex ideas into seamless, high-performance interfaces.
+
+<div align="center">
+
+| 2+ Years | 20+ Projects | 10+ Clients |
+|:--------:|:------------:|:-----------:|
+| Experience | Completed | Served |
+
+</div>
 
 ---
 
