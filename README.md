@@ -66,29 +66,6 @@
 
 ---
 
-### 3D Contribution Calendar
-
-<div align="center">
-
-![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)
-
-</div>
-
-<details>
-<summary>More 3D Themes</summary>
-
-| Night Green | Season Animate |
-|:-----------:|:--------------:|
-| ![Green](./profile-3d-contrib/profile-night-green.svg) | ![Season](./profile-3d-contrib/profile-season-animate.svg) |
-
-| GitHub Dark | Gitblock |
-|:-----------:|:--------:|
-| ![Dark](./profile-3d-contrib/profile-github-dark.svg) | ![Gitblock](./profile-3d-contrib/profile-gitblock.svg) |
-
-</details>
-
----
-
 ### Featured Project
 
 <table>
