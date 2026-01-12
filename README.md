@@ -1,5 +1,5 @@
 <!-- Minimal Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?
+A. IZZAT SHAFRAN ASHARI
 
 </div>
 
