@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-██╗ █████╗ ███████╗██╗  ██╗ █████╗ ██████╗ ██╗
-██║██╔══██╗██╔════╝██║  ██║██╔══██╗██╔══██╗██║
-██║███████║███████╗███████║███████║██████╔╝██║
-██║██╔══██║╚════██║██╔══██║██╔══██║██╔══██╗██║
-██║██║  ██║███████║██║  ██║██║  ██║██║  ██║██║
-╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
+██╗███████╗███████╗ █████╗ ████████╗    ███████╗██╗  ██╗ █████╗ ███████╗██████╗  █████╗ ███╗   ██╗
+██║╚══███╔╝╚══███╔╝██╔══██╗╚══██╔══╝    ██╔════╝██║  ██║██╔══██╗██╔════╝██╔══██╗██╔══██╗████╗  ██║
+██║  ███╔╝   ███╔╝ ███████║   ██║       ███████╗███████║███████║█████╗  ██████╔╝███████║██╔██╗ ██║
+██║ ███╔╝   ███╔╝  ██╔══██║   ██║       ╚════██║██╔══██║██╔══██║██╔══╝  ██╔══██╗██╔══██║██║╚██╗██║
+██║███████╗███████╗██║  ██║   ██║       ███████║██║  ██║██║  ██║██║     ██║  ██║██║  ██║██║ ╚████║
+╚═╝╚══════╝╚══════╝╚═╝  ╚═╝   ╚═╝       ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Building+something+cool..." alt="Typing SVG" /></a>
@@ -104,10 +104,6 @@
 ### Music
 
 <div align="center">
-
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=pdc05b69l3bqbxtpgsobaaajf&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pdc05b69l3bqbxtpgsobaaajf&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-</a>
 
 [![Last.fm Recently Played](https://lastfm-recently-played.vercel.app/api?user=Ijattt&count=5&width=400)](https://www.last.fm/user/Ijattt)
 
