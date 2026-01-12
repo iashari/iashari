@@ -36,16 +36,20 @@
 
   ---
 
-  # GitHub Stats
+  ### GitHub Stats
 
-![Repos](https://img.shields.io/badge/Repos-3-007ec6?style=flat-square&logo=github)
-![Followers](https://img.shields.io/badge/Followers-1-9cf?style=flat-square&logo=github&color=78b13f)
-![Following](https://img.shields.io/badge/Following-0-purple?style=flat-square&logo=github)
+<p align="left">
+  <img src="https://img.shields.io/badge/Repos-3-007ec6?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Followers-1-78b13f?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Following-0-purple?style=flat-square&logo=github" />
+</p>
 
-<br/>
-
+### My Coding Performance
+&nbsp;
 ![AndiIzzat's Stats](https://github-readme-stats.vercel.app/api?username=AndiIzzat&show_icons=true&theme=radical)
-![AndiIzzat's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndiIzzat&layout=compact&theme=radical)
+
+![AndiIzzat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndiIzzat&layout=compact&theme=radical)
+
 ![AndiIzzat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndiIzzat&theme=radical)
 
   ---
