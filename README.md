@@ -1,48 +1,94 @@
-  # Izzat Shafran
+<div align="center">
 
-  **UI/UX Designer & Full Stack Developer**
+# Hi, I'm A. Izzat Shafran Ashari
 
-  Crafting intuitive interfaces and scalable web applications in Makassar, Indonesia
+### UI/UX Designer | Full Stack Developer | Creative Thinker
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://izzatshafran.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andi-izzat-7329b630a/)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ifran@ashari.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-izzat--portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://andi-izzat-shafran-ashari-portofolio26.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andi-izzat-7329b630a/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ifran@ashari.tech)
 
-  ---
+</div>
 
-  ### About
+---
 
-  Full Stack Developer Intern at **Ashari Tech**, specializing in creating seamless user experiences from concept to code. I bridge the gap between design and development, turning ideas into polished digital products.
+## About Me
 
-  ---
+Full Stack Developer Intern at **Ashari Tech** in Makassar, Indonesia. I specialize in creating seamless user experiences from concept to code, bridging the gap between design and development to turn ideas into polished digital products.
 
-  ### Tech Stack
+- Currently building modern web applications with **Next.js** & **TypeScript**
+- Passionate about **UI/UX Design** and user-centered interfaces
+- Exploring **AI integration** in creative workflows
+- Always learning and improving my craft
 
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+---
 
-  ---
+## Tech Stack
 
-  ### Currently
+<div align="center">
 
-  🔹 Building modern web applications with Next.js & TypeScript
-  🔹 Exploring AI integration in creative workflows
-  🔹 Designing user-centered interfaces
+### Languages & Frameworks
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-  ---
+### Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-  ### GitHub Stats
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Repos-3-007ec6?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Followers-1-78b13f?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Following-0-purple?style=flat-square&logo=github" />
-</p>
+---
 
+## GitHub Stats
 
-  <p align="center"><i>"Good design is obvious. Great design is transparent."</i></p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iashari&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iashari&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=iashari&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)](https://github.com/iashari)
+
+</div>
+
+---
+
+## Featured Project
+
+<div align="center">
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=iashari&repo=Andi-Izzat-Shafran-ashari-Portofolio26&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/iashari/Andi-Izzat-Shafran-ashari-Portofolio26)
+
+**Portfolio Website** - A high-performance portfolio built with Next.js 16, achieving 100 PageSpeed scores
+
+</div>
+
+---
+
+## Currently Working On
+
+- Building responsive and performant web applications
+- Improving UI/UX design skills with Figma
+- Contributing to open-source projects
+- Learning advanced backend development
+
+---
+
+<div align="center">
+
+### Let's Connect!
+
+I'm always open to discussing new projects, creative ideas, or opportunities.
+
+![Profile Views](https://komarev.com/ghpvc/?username=iashari&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+---
+
+*"Good design is obvious. Great design is transparent."*
+
+</div>
