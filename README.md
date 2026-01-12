@@ -56,16 +56,6 @@
 
 ---
 
-### Metrics Dashboard
-
-<div align="center">
-
-![GitHub Metrics](./github-metrics.svg)
-
-</div>
-
----
-
 ### Featured Project
 
 <table>
