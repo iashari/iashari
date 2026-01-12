@@ -103,30 +103,11 @@
 
 ---
 
-### Music Stats
+### Recently Played
 
 <div align="center">
 
-![Recent Tracks](https://lastly.nisarga.me/api/recent?username=Ijattt)
-
-| Top Artists | Top Tracks |
-|:-----------:|:----------:|
-| ![Top Artists](https://lastly.nisarga.me/api/top-artists?username=Ijattt&period=1month) | ![Top Tracks](https://lastly.nisarga.me/api/top-tracks?username=Ijattt&period=1month) |
-
-<details>
-<summary>All-Time Stats</summary>
-
-![Overall Stats](https://lastly.nisarga.me/api/overall?username=Ijattt)
-
-| Top Artists (All Time) | Top Tracks (All Time) |
-|:----------------------:|:---------------------:|
-| ![Top Artists](https://lastly.nisarga.me/api/top-artists?username=Ijattt&period=overall) | ![Top Tracks](https://lastly.nisarga.me/api/top-tracks?username=Ijattt&period=overall) |
-
-| Top Albums |
-|:----------:|
-| ![Top Albums](https://lastly.nisarga.me/api/top-albums?username=Ijattt&period=overall) |
-
-</details>
+[![Last.fm Recently Played](https://lastfm-recently-played.vercel.app/api?user=Ijattt&count=5&width=400)](https://www.last.fm/user/Ijattt)
 
 </div>
 
