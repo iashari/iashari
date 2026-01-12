@@ -36,14 +36,17 @@
 
   ---
 
-  ### GitHub Stats
+  # GitHub Stats
 
-  [![Repos](https://img.shields.io/badge/dynamic/json?logo=github&label=Repos&query=%24.public_repos&url=https://api.github.com/users/AndiIzzat&style=flat-square&color=blue)](https://github.com/AndiIzzat?tab=repositories)
-  [![Followers](https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&query=%24.followers&url=https://api.github.com/users/AndiIzzat&style=flat-square&color=green)](https://github.com/AndiIzzat?tab=followers)
-  [![Following](https://img.shields.io/badge/dynamic/json?logo=github&label=Following&query=%24.following&url=https://api.github.com/users/AndiIzzat&style=flat-square&color=purple)](https://github.com/AndiIzzat?tab=following)
-![Stats](https://github-readme-stats.vercel.app/api?username=AndiIzzat&show_icons=true&theme=radical)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndiIzzat&layout=compact&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndiIzzat&theme=radical)
+![Repos](https://img.shields.io/badge/Repos-3-007ec6?style=flat-square&logo=github)
+![Followers](https://img.shields.io/badge/Followers-1-9cf?style=flat-square&logo=github&color=78b13f)
+![Following](https://img.shields.io/badge/Following-0-purple?style=flat-square&logo=github)
+
+<br/>
+
+![AndiIzzat's Stats](https://github-readme-stats.vercel.app/api?username=AndiIzzat&show_icons=true&theme=radical)
+![AndiIzzat's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndiIzzat&layout=compact&theme=radical)
+![AndiIzzat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndiIzzat&theme=radical)
 
   ---
 
