@@ -14,21 +14,18 @@
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="120" />
 
-> Crafting digital experiences with clean code and minimal design.
-
-| | |
-|:--|:--|
-| **Location** | Makassar, Indonesia |
-
----
-
-### Currently
-
-```
-🔭 Working on    Portfolio website with 100 PageSpeed score
-🌱 Learning      AI Integration, Advanced TypeScript
-🎧 Listening     Lo-fi beats
-📖 Reading       Clean Code by Robert C. Martin
+```json
+{
+  "pronouns": ["he", "him"],
+  "code": ["TypeScript", "JavaScript", "HTML", "CSS"],
+  "technologies": ["Next.js", "React", "Tailwind", "Node.js", "MongoDB"],
+  "tools": ["Figma", "VS Code", "Git", "Vercel"],
+  "hobbies": {
+    "music": ["Lo-fi", "Jazz", "Indie"],
+    "movies": ["Sci-fi", "Action", "Documentary"]
+  },
+  "current_focus": "Building something cool... 👀"
+}
 ```
 
 ---
