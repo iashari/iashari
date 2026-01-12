@@ -2,42 +2,60 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Izzat" alt="Typing SVG" /></a>
 
-**Full Stack Developer Intern** @ Ashari Tech | Next.js, React, TypeScript | Makassar, Indonesia
+**Full Stack Developer Intern** @ Ashari Tech | Makassar, Indonesia
 
 </div>
 
 ---
 
-## About
+### About
 
 Web developer intern @ Ashari Tech, specializing in building high-performance web applications with modern technologies.
 
-🔭 **Working on:** Portfolio website with 100 PageSpeed score
-🌱 **Learning:** Advanced TypeScript, UI/UX Design, AI Integration
+```
+🔭 Working on   Portfolio website with 100 PageSpeed score
+🌱 Learning     Advanced TypeScript, UI/UX Design, AI Integration
+```
 
 ---
 
-## Tech Stack
+### Tech Stack
 
-**Frontend:** Next.js, React, TypeScript, Tailwind CSS
-**Backend:** Node.js, MongoDB
-**Design:** Figma
-**Tools:** Git, VS Code, Vercel
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=next.js&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=a3a3a3)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=a3a3a3)
+![Tailwind](https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=a3a3a3)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=node.js&logoColor=a3a3a3)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=a3a3a3)
+![Figma](https://img.shields.io/badge/Figma-0a0a0a?style=flat-square&logo=figma&logoColor=a3a3a3)
+![Vercel](https://img.shields.io/badge/Vercel-0a0a0a?style=flat-square&logo=vercel&logoColor=ffffff)
+
+</div>
 
 ---
 
-## Connect
+### Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/andi-izzat-7329b630a/)
-🌐 [Portfolio](https://izzatshafran.vercel.app/)
-📧 ifran@ashari.tech
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=a3a3a3)](https://www.linkedin.com/in/andi-izzat-7329b630a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://izzatshafran.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=a3a3a3)](mailto:ifran@ashari.tech)
+
+</div>
 
 ---
 
-## Contributions
+### Contributions
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iashari/iashari/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iashari/iashari/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/iashari/iashari/output/github-snake-dark.svg" />
 </picture>
+
+</div>
