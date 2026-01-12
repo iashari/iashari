@@ -53,16 +53,6 @@
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iashari&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff)
-
-</div>
-
----
-
 ### Contributions
 
 <div align="center">
