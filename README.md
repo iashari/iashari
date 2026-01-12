@@ -10,12 +10,37 @@
 
 ### About
 
-Web developer intern @ Ashari Tech, specializing in building high-performance web applications with modern technologies.
+<table>
+<tr>
+<td width="50%">
 
+```js
+const izzat = {
+  role: "Full Stack Developer",
+  company: "Ashari Tech",
+  location: "Makassar, ID"
+};
 ```
-🔭 Working on   Portfolio website with 100 PageSpeed score
-🌱 Learning     Advanced TypeScript, UI/UX Design, AI Integration
+
+</td>
+<td width="50%">
+
+```yaml
+currently:
+  working_on: "Portfolio with 100 PageSpeed"
+  learning: "AI Integration"
+  goal: "Build impactful products"
 ```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`Web Developer` · `UI/UX Enthusiast` · `Problem Solver`
+
+</div>
 
 ---
 
