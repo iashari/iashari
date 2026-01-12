@@ -74,7 +74,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=a3a3a3)](https://www.linkedin.com/in/andi-izzat-7329b630a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://izzatshafran.vercel.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=a3a3a3)](https://www.instagram.com/izzat_ashari/)
+[![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=a3a3a3)](https://www.instagram.com/izzat.shafran/)
 [![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=a3a3a3)](mailto:ifran@ashari.tech)
 
 </div>
