@@ -1,5 +1,8 @@
-<!-- Minimal Header -->
-A. IZZAT SHAFRAN ASHARI
+<div align="center">
+
+# A. IZZAT SHAFRAN ASHARI
+
+**UI/UX Designer | Full Stack Developer**
 
 </div>
 
