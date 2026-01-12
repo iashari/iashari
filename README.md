@@ -77,6 +77,15 @@ const izzat = {
 
 <div align="center">
 
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iashari/iashari/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iashari/iashari/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/iashari/iashari/output/github-snake-dark.svg" />
+</picture>
+
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iashari&theme=github-dark&hide_border=true&area=true&bg_color=0a0a0a&color=a3a3a3&line=ffffff&point=ffffff" alt="Activity Graph"/>
 
 </div>
