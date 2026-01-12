@@ -3,7 +3,7 @@ UI/UX Designer & Full Stack Developer Intern @ Ashari Tech | React, Next.js, Fig
 
 ## About
 Full Stack developer and UI/UX Designer intern @ Ashari Tech, specializing in Next.js, React, TypeScript, and figma.
-🔭 Working on: [https://github.com/AndiIzzat/Andi-Izzat-Shafran-ashari-Portofolio26]
+🔭 Working on: [my own portofolio]
 🌱 Learning: [tech]
 
 ## Tech Stack
