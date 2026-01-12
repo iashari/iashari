@@ -3,21 +3,6 @@
 
 <br/><br/>
 
-<!-- Minimal Social Badges -->
-<a href="https://andi-izzat-shafran-ashari-portofolio26.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=vercel&logoColor=0a0a0a" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/andi-izzat-7329b630a/">
-  <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=0a0a0a" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:ifran@ashari.tech">
-  <img src="https://img.shields.io/badge/Email-ffffff?style=flat-square&logo=gmail&logoColor=0a0a0a" alt="Email"/>
-</a>
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=iashari&color=a3a3a3&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
 </div>
