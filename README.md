@@ -94,9 +94,9 @@
 
 ---
 
-<div align="center">
+### Music
 
-![MUSIC](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=5000&color=FF69B4&center=true&vCenter=true&repeat=false&width=200&lines=%F0%9F%8E%B5+MUSIC)
+<div align="center">
 
 [![Last.fm Recently Played](https://lastfm-recently-played.vercel.app/api?user=Ijattt&count=5&width=400)](https://www.last.fm/user/Ijattt)
 
