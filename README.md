@@ -10,37 +10,13 @@
 
 ### About
 
-<table>
-<tr>
-<td width="50%">
+> Crafting digital experiences with clean code and minimal design.
 
-```js
-const izzat = {
-  role: "Full Stack Developer",
-  company: "Ashari Tech",
-  location: "Makassar, ID"
-};
-```
-
-</td>
-<td width="50%">
-
-```yaml
-currently:
-  working_on: "Portfolio with 100 PageSpeed"
-  learning: "AI Integration"
-  goal: "Build impactful products"
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-`Web Developer` · `UI/UX Enthusiast` · `Problem Solver`
-
-</div>
+| | |
+|:--|:--|
+| **Location** | Makassar, Indonesia |
+| **Working on** | Portfolio with 100 PageSpeed |
+| **Learning** | AI Integration, Advanced TypeScript |
 
 ---
 
