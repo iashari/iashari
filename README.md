@@ -98,7 +98,7 @@
 
 <div align="center">
 
-[![Last.fm Recently Played](https://lastfm-recently-played.vercel.app/api?user=Ijattt&count=5&width=400)](https://www.last.fm/user/Ijattt)
+[![Last.fm Recently Played](https://lastfm-recently-played.vercel.app/api?user=Ijattt&count=10&width=500&bg_color=0a0a0a)](https://www.last.fm/user/Ijattt)
 
 </div>
 
