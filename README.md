@@ -49,10 +49,16 @@ Full Stack Developer Intern at **Ashari Tech** in Makassar, Indonesia. I special
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iashari&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iashari&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/iashari">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iashari&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" />
+</a>
+<a href="https://github.com/iashari">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iashari&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iashari&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)](https://github.com/iashari)
+<a href="https://github.com/iashari">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iashari&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
+</a>
 
 </div>
 
@@ -62,9 +68,13 @@ Full Stack Developer Intern at **Ashari Tech** in Makassar, Indonesia. I special
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=iashari&repo=Andi-Izzat-Shafran-ashari-Portofolio26&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/iashari/Andi-Izzat-Shafran-ashari-Portofolio26)
+<a href="https://github.com/iashari/Andi-Izzat-Shafran-ashari-Portofolio26">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iashari&repo=Andi-Izzat-Shafran-ashari-Portofolio26&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&show_owner=true" />
+</a>
 
-**Portfolio Website** - A high-performance portfolio built with Next.js 16, achieving 100 PageSpeed scores
+| Project | Tech | Description |
+|---------|------|-------------|
+| [**Portfolio**](https://github.com/iashari/Andi-Izzat-Shafran-ashari-Portofolio26) | Next.js, TypeScript, Tailwind | High-performance portfolio with 100 PageSpeed scores |
 
 </div>
 
