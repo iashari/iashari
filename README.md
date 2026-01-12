@@ -41,9 +41,9 @@
   [![Repos](https://img.shields.io/badge/dynamic/json?logo=github&label=Repos&query=%24.public_repos&url=https://api.github.com/users/AndiIzzat&style=flat-square&color=blue)](https://github.com/AndiIzzat?tab=repositories)
   [![Followers](https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&query=%24.followers&url=https://api.github.com/users/AndiIzzat&style=flat-square&color=green)](https://github.com/AndiIzzat?tab=followers)
   [![Following](https://img.shields.io/badge/dynamic/json?logo=github&label=Following&query=%24.following&url=https://api.github.com/users/AndiIzzat&style=flat-square&color=purple)](https://github.com/AndiIzzat?tab=following)
-  ![Stats](https://github-readme-stats.vercel.app/api?username=USER&show_icons=true&theme=radical)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USER&layout=compact)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=USER)
+![Stats](https://github-readme-stats.vercel.app/api?username=AndiIzzat&show_icons=true&theme=radical)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndiIzzat&layout=compact&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndiIzzat&theme=radical)
 
   ---
 
