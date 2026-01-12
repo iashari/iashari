@@ -57,22 +57,14 @@
 
 ### Featured Project
 
-<table>
-<tr>
-<td>
-
 **Portfolio Website**
 
-![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=next.js&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=a3a3a3)
-![Tailwind](https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=a3a3a3)
+![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=a3a3a3)
+![Tailwind](https://img.shields.io/badge/Tailwind-0a0a0a?style=for-the-badge&logo=tailwindcss&logoColor=a3a3a3)
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0a0a0a?style=flat-square&logo=vercel&logoColor=ffffff)](https://izzatshafran.vercel.app/)
-[![Source Code](https://img.shields.io/badge/Source_Code-0a0a0a?style=flat-square&logo=github&logoColor=a3a3a3)](https://github.com/iashari/Andi-Izzat-Shafran-ashari-Portofolio26)
-
-</td>
-</tr>
-</table>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0a0a0a?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://izzatshafran.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-0a0a0a?style=for-the-badge&logo=github&logoColor=a3a3a3)](https://github.com/iashari/Andi-Izzat-Shafran-ashari-Portofolio26)
 
 ---
 
