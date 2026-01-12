@@ -29,7 +29,7 @@ Web developer intern @ Ashari Tech, specializing in building high-performance we
 ## Connect
 
 💼 [LinkedIn](https://www.linkedin.com/in/andi-izzat-7329b630a/)
-🌐 [Portfolio](https://andi-izzat-shafran-ashari-portofolio26.vercel.app/)
+🌐 [Portfolio](https://izzatshafran.vercel.app/)
 📧 ifran@ashari.tech
 
 ---
