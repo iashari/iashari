@@ -78,22 +78,6 @@ const izzat = {
 
 <div align="center">
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=iashari&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies"/>
-
-<br/><br/>
-
-<!-- Stats Cards -->
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iashari&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" alt="Stats"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iashari&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117" alt="Languages"/>
-
-<br/>
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=iashari&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="Streak"/>
-
-<br/>
-
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iashari&theme=github-dark&hide_border=true&area=true&bg_color=0d1117" alt="Activity Graph"/>
 
@@ -105,11 +89,12 @@ const izzat = {
 
 <div align="center">
 
-<a href="https://github.com/iashari/Andi-Izzat-Shafran-ashari-Portofolio26">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iashari&repo=Andi-Izzat-Shafran-ashari-Portofolio26&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Portfolio Repo"/>
-</a>
+### 🚀 Portfolio Website
 
-### Portfolio Website
+<img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
 
 A modern, high-performance portfolio achieving **100 PageSpeed scores**
 
