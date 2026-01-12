@@ -4,6 +4,8 @@
 
 **Full Stack Developer Intern** @ Ashari Tech | Makassar, Indonesia
 
+*Bridging design and development with clean, minimal aesthetics*
+
 </div>
 
 ---
@@ -46,6 +48,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=a3a3a3)](https://www.linkedin.com/in/andi-izzat-7329b630a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://izzatshafran.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=a3a3a3)](mailto:ifran@ashari.tech)
+
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iashari&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff)
 
 </div>
 
