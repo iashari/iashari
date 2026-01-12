@@ -1,11 +1,6 @@
 <!-- Minimal Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:171717&height=180&section=header&text=A.%20Izzat%20Shafran%20Ashari&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=UI/UX%20Designer%20|%20Full%20Stack%20Developer%20|%20Creative%20Thinker&descSize=18&descAlignY=52&descColor=a3a3a3"/>
 
-<div align="center">
-
-<!-- Animated Typing - Neutral -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=A3A3A3&center=true&vCenter=true&random=false&width=500&lines=Building+Modern+Web+Applications;Crafting+Beautiful+User+Interfaces;Turning+Ideas+Into+Digital+Products" alt="Typing SVG" /></a>
-
 <br/><br/>
 
 <!-- Minimal Social Badges -->
