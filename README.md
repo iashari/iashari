@@ -1,6 +1,6 @@
 <div align="center">
 
-![IZZAT SHAFRAN](./ascii-name.svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=10000&color=FF69B4&center=true&vCenter=true&repeat=false&width=500&height=60&lines=%3C+IZZAT+SHAFRAN+%2F%3E)](https://github.com/iashari)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Building+something+cool..." alt="Typing SVG" /></a>
 
