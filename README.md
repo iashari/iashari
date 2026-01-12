@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm izzat👋
+UI/UX Designer & Full Stack Developer Intern @ Ashari Tech | React, Next.js, Figma | Makassar
 
-<!--
-**AndiIzzat/AndiIzzat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+Full Stack developer and UI/UX Designer intern @ Ashari Tech, specializing in Next.js, React, TypeScript, and figma.
+🔭 Working on: [[project](https://github.com/AndiIzzat/Andi-Izzat-Shafran-ashari-Portofolio26)]
+🌱 Learning: [tech]
 
-Here are some ideas to get you started:
+## Tech Stack
+Frontend: Next.js, React, TypeScript, Tailwind
+Backend: Node.js, MongoDB
+Tools: Git, VS Code, Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect
+💼 LinkedIn: [[[link](https://www.linkedin.com/in/andi-izzat-7329b630a/)]](https://www.linkedin.com/in/andi-izzat-7329b630a/)
+🌐 Portfolio: [[link]](https://izzatshafran.vercel.app/)
+📧 Email: ifran@ashari.tech
+
+![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
