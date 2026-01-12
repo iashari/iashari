@@ -53,7 +53,7 @@
 
 <div align="center">
 
-[![Trophies](https://github-trophies.vercel.app/?username=iashari&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)](https://github.com/iashari)
+[![Trophies](https://github-trophies.vercel.app/?username=iashari&theme=radical&no-frame=true&no-bg=true&column=8&margin-w=10&margin-h=10)](https://github.com/iashari)
 
 </div>
 
