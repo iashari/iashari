@@ -55,8 +55,6 @@
 
 **🚀 Portfolio Website**
 
-High-performance portfolio achieving **100 PageSpeed score**
-
 ![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=next.js&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=a3a3a3)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=a3a3a3)
