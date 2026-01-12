@@ -12,6 +12,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
 
     steps:
       - name: Generate Snake Animation
@@ -21,7 +23,6 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=gray&color_dots=#0a0a0a,#171717,#262626,#404040,#ffffff
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
