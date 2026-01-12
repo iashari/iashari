@@ -56,6 +56,16 @@
 
 ---
 
+### Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=iashari&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)](https://github.com/iashari)
+
+</div>
+
+---
+
 ### Featured Project
 
 <table>
