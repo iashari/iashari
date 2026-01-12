@@ -57,6 +57,10 @@
 
 ### Featured Project
 
+<table width="100%">
+<tr>
+<td>
+
 **Portfolio Website**
 
 ![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=for-the-badge&logo=next.js&logoColor=ffffff)
@@ -65,6 +69,10 @@
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-0a0a0a?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://izzatshafran.vercel.app/)
 [![Source Code](https://img.shields.io/badge/Source_Code-0a0a0a?style=for-the-badge&logo=github&logoColor=a3a3a3)](https://github.com/iashari/Andi-Izzat-Shafran-ashari-Portofolio26)
+
+</td>
+</tr>
+</table>
 
 ---
 
