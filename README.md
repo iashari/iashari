@@ -1,104 +1,182 @@
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=A.%20Izzat%20Shafran%20Ashari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=UI/UX%20Designer%20|%20Full%20Stack%20Developer%20|%20Creative%20Thinker&descSize=18&descAlignY=52"/>
+
 <div align="center">
 
-# Hi, I'm A. Izzat Shafran Ashari
+<!-- Animated Typing -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+Modern+Web+Applications;Crafting+Beautiful+User+Interfaces;Turning+Ideas+Into+Digital+Products;Always+Learning+New+Technologies" alt="Typing SVG" /></a>
 
-### UI/UX Designer | Full Stack Developer | Creative Thinker
+<!-- Social Badges -->
+<br/>
+<a href="https://andi-izzat-shafran-ashari-portofolio26.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/andi-izzat-7329b630a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:ifran@ashari.tech">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-izzat--portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://andi-izzat-shafran-ashari-portofolio26.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andi-izzat-7329b630a/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ifran@ashari.tech)
+<br/><br/>
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=iashari&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/iashari?label=Followers&style=flat-square&color=58a6ff" alt="Followers"/>
 
 </div>
 
 ---
 
-## About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> About Me
 
-Full Stack Developer Intern at **Ashari Tech** in Makassar, Indonesia. I specialize in creating seamless user experiences from concept to code, bridging the gap between design and development to turn ideas into polished digital products.
+```javascript
+const izzat = {
+    location: "Makassar, Indonesia",
+    role: "Full Stack Developer Intern @ Ashari Tech",
+    education: "SMK Informatika",
+    currentFocus: ["Next.js", "TypeScript", "UI/UX Design"],
+    hobbies: ["Coding", "Design", "Learning New Tech"],
+    funFact: "I turn coffee into code ☕"
+};
+```
 
-- Currently building modern web applications with **Next.js** & **TypeScript**
-- Passionate about **UI/UX Design** and user-centered interfaces
-- Exploring **AI integration** in creative workflows
-- Always learning and improving my craft
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="100" height="100" />
+
+- 🔭 Currently building modern web applications with **Next.js & TypeScript**
+- 🎨 Passionate about **UI/UX Design** and user-centered interfaces
+- 🤖 Exploring **AI integration** in creative workflows
+- 🌱 Always learning and improving my craft
+- ⚡ Fun fact: I believe great design is invisible
 
 ---
 
-## Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" alt="Languages"/>
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs&theme=dark" alt="Frameworks"/>
+</p>
 
 ### Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,vercel,mongodb&theme=dark" alt="Tools"/>
+</p>
 
 </div>
 
 ---
 
-## GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/iashari">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iashari&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" />
-</a>
-<a href="https://github.com/iashari">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iashari&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</a>
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=iashari&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies"/>
 
-<a href="https://github.com/iashari">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iashari&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
-</a>
+<br/><br/>
+
+<!-- Stats Cards -->
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iashari&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" alt="Stats"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iashari&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117" alt="Languages"/>
+
+<br/>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=iashari&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="Streak"/>
+
+<br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iashari&theme=github-dark&hide_border=true&area=true&bg_color=0d1117" alt="Activity Graph"/>
 
 </div>
 
 ---
 
-## Featured Project
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Featured Project
 
 <div align="center">
 
 <a href="https://github.com/iashari/Andi-Izzat-Shafran-ashari-Portofolio26">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iashari&repo=Andi-Izzat-Shafran-ashari-Portofolio26&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iashari&repo=Andi-Izzat-Shafran-ashari-Portofolio26&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Portfolio Repo"/>
 </a>
 
-| Project | Tech | Description |
-|---------|------|-------------|
-| [**Portfolio**](https://github.com/iashari/Andi-Izzat-Shafran-ashari-Portofolio26) | Next.js, TypeScript, Tailwind | High-performance portfolio with 100 PageSpeed scores |
+### Portfolio Website
+
+A modern, high-performance portfolio achieving **100 PageSpeed scores**
+
+<table>
+  <tr>
+    <td><b>🚀 Tech</b></td>
+    <td>Next.js 16 • TypeScript • Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><b>⚡ Performance</b></td>
+    <td>100/100 PageSpeed Score</td>
+  </tr>
+  <tr>
+    <td><b>✨ Features</b></td>
+    <td>Dark/Light Theme • Blog • GitHub Stats • Spotify</td>
+  </tr>
+  <tr>
+    <td><b>🔄 CI/CD</b></td>
+    <td>GitHub Actions → Vercel</td>
+  </tr>
+</table>
+
+<br/>
+
+<a href="https://andi-izzat-shafran-ashari-portofolio26.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-58a6ff?style=for-the-badge" alt="Live Demo"/>
+</a>
+<a href="https://github.com/iashari/Andi-Izzat-Shafran-ashari-Portofolio26">
+  <img src="https://img.shields.io/badge/📁_Source_Code-GitHub-181717?style=for-the-badge" alt="Source Code"/>
+</a>
 
 </div>
 
 ---
 
-## Currently Working On
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Let's Connect
 
-- Building responsive and performant web applications
-- Improving UI/UX design skills with Figma
-- Contributing to open-source projects
-- Learning advanced backend development
+<div align="center">
+
+I'm always open to discussing new projects, creative ideas, or opportunities!
+
+<br/>
+
+<a href="https://www.linkedin.com/in/andi-izzat-7329b630a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/iashari">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:ifran@ashari.tech">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://andi-izzat-shafran-ashari-portofolio26.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### Let's Connect!
+### 💭 Random Dev Quote
 
-I'm always open to discussing new projects, creative ideas, or opportunities.
-
-![Profile Views](https://komarev.com/ghpvc/?username=iashari&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
-
----
-
-*"Good design is obvious. Great design is transparent."*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
 
 </div>
+
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
