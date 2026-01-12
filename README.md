@@ -1,10 +1,6 @@
 <!-- Minimal Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:171717&height=180&section=header&text=A.%20Izzat%20Shafran%20Ashari&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=UI/UX%20Designer%20|%20Full%20Stack%20Developer%20|%20Creative%20Thinker&descSize=18&descAlignY=52&descColor=a3a3a3"/>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=iashari&color=a3a3a3&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-
 </div>
 
 ---
